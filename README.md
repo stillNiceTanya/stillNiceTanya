@@ -38,7 +38,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 :sparkles: Bringing creativity and a positive attitude to every project, working collaboratively to achieve great results.
 
 
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
