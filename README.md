@@ -28,7 +28,6 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
-
 :computer: Passionate about coding and building beautiful, responsive user interfaces.
 
 :bulb: Always eager to learn new technologies and explore new ways to enhance the user experience.
