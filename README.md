@@ -54,6 +54,13 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<!--
+<div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stillNiceTanya&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stillNiceTanya&layout=compact" />
+</a>
+</div>
+--!>
 
 
 
