@@ -36,6 +36,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 :sparkles: Bringing creativity and a positive attitude to every project, working collaboratively to achieve great results.
 
+</br>
+</br>
+<p>✉️ Email: tatiana.developerr@gmail.com</p>
+<p>📱 Telegram: @still_nice_Tanya</p>
+
+
 
 ---
 
