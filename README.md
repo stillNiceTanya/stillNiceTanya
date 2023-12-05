@@ -22,7 +22,7 @@
 
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
