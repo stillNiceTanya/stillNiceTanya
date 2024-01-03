@@ -22,22 +22,20 @@
 
 </div>
 
-### About Me :
+<h2>About Me:</h2>
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
+🌱 I’m currently working as a frontend developer at the <a href="https://jampad.cc/">Jampad</a>
 
-:computer: Passionate about coding and building beautiful, responsive user interfaces.
+🤖 Participated in the development of the <a href="https://lapkipomoshi.ru/">Lapkipomoshi</a> project as a frontend developer
 
-:bulb: Always eager to learn new technologies and explore new ways to enhance the user experience.
+🔭 Actively preparing for the Scrum PSM 1 exam to deepen my understanding of Scrum methodologies
 
-:rocket: Excited to be a part of the fast-paced world of web development, constantly pushing the boundaries of what's possible.
-
-:sparkles: Bringing creativity and a positive attitude to every project, working collaboratively to achieve great results.
 
 </br>
-</br>
-<p>✉️ Email: tatiana.developerr@gmail.com</p>
-<p>📱 Telegram: @still_nice_Tanya</p>
+<h2>Connect with me:</h2>
+<h3>✉️ Email: tatiana.developerr@gmail.com</h3>
+<h3>📱 Telegram: <a href="https://t.me/still_nice_Tanya">Tanya</a></h3>
 
 
 
